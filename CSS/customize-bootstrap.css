@@ -1,0 +1,70 @@
+i{
+    /* color: #F78513; */
+}
+
+.btn-primary
+{
+    background-color: #F78513;
+    color: white;
+    border-color: #F78513;
+}
+
+.btn-primary:hover
+{
+    background-color:#fc9e41;
+    border-color: #fc9e41;
+    color: black;
+}
+
+
+li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+li a:hover{
+    text-decoration: black;
+    color: #F78513;
+    font-weight: bold;
+}
+
+.text-body{
+    color: rgb(161, 161, 161) !important;
+}
+
+.social-media i{
+    color: white;
+}
+
+.rounded-circle {
+    width: 150px;  
+    height: 150px; 
+    object-fit: cover; 
+    display: block;
+}
+
+
+
+.team-item img {
+    width: 250px; 
+    height: 250px; 
+    object-fit: cover;
+    border-radius: 50%; 
+    border: 5px solid #fff; 
+}
+
+.btn-link
+{
+    color: #F78513;
+    text-decoration: none;
+}
+
+.btn-link a :hover
+{
+    color: #F78513 !important;
+    text-decoration: underline;
+}
+
+
+
